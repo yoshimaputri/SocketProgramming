@@ -1,7 +1,8 @@
-Author by : Yoshima Syach Putri - 5116100022
+# SOCKET PROGRAMMING
 
-SOCKET PROGRAMMING
+Author by : Yoshima Syach Putri
 
+# Manual Application
 1. Firstly, open the command prompt in your OS.
 2. And then, run the server.py file in terminal
 	>python server.py
